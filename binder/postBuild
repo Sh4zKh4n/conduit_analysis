@@ -1,5 +1,6 @@
 curl -L "https://www.dropbox.com/s/y8awyrvzb0lr5b2/data.zip?dl=1" > data.zip
 unzip data.zip
+mv For\ Kevin data
 rm data.zip
 mkdir $HOME/.jupyter
 echo "c.NotebookApp.iopub_data_rate_limit=1e22" >> $HOME/.jupyter/jupyter_notebook_config.py
