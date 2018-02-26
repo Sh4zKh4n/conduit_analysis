@@ -18,5 +18,5 @@ done
 cd ~
 mkdir -p ${HOME}/doc
 mkdir -p ${HOME}/doc/notebooks
-cp -r ${QBI_HOME}/Lectures/* ${HOME}/doc/notebooks
+cp -r ${QBI_HOME}/notebooks/* ${HOME}/doc/notebooks
 cp -r ./doc ${CIRCLE_ARTIFACTS}
