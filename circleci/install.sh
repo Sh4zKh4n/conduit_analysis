@@ -43,3 +43,4 @@ pip install pdoc==0.3.2 pygments
 # importing matplotlib once builds the font caches. This avoids
 # having warnings in our example notebooks
 python -c "import matplotlib.pyplot as plt"
+./binder/postBuild
