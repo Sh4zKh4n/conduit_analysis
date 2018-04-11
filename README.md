@@ -13,3 +13,7 @@ Here a selection of 12 projections per frame (4 frames in total) per experiment 
 - [![3D](https://img.shields.io/badge/launch-3D_Notebook-green.svg)](http://mybinder.org/v2/gh/kmader/conduit_analysis/master?filepath=notebooks/3DViews.ipynb) [![3D](https://img.shields.io/badge/run-3D_Demo-blue.svg)](http://mybinder.org/v2/gh/kmader/conduit_analysis/master?urlpath=/apps/notebooks/3DViews.ipynb)
 
 - [![4D](https://img.shields.io/badge/launch-4D_Notebook-green.svg)](http://mybinder.org/v2/gh/kmader/conduit_analysis/master?filepath=notebooks/3DViews-Animations.ipynb) [![4D](https://img.shields.io/badge/run-4D_Demo-blue.svg)](http://mybinder.org/v2/gh/kmader/conduit_analysis/master?urlpath=/apps/notebooks/3DViews-Animations.ipynb)
+
+
+## registration
+- [![3D](https://img.shields.io/badge/launch-3D_Notebook-green.svg)](http://mybinder.org/v2/gh/kmader/conduit_analysis/master?filepath=notebooks/3DRegistration.ipynb)
